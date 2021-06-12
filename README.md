@@ -1,14 +1,10 @@
 # A sample repository
 
-I ... uh... got nothing :3
-Wait !... 
-Nah... 
-Lost it
-
-## Currently making changes on visual studio code :3
-
-Some more text here !!!
-Now go commit
-
-## Okay one commit and push was done... 
-Lemme just try another one
+Practicing git interactions <br>
+Basically testing how the ...
+<br>
+Add <br>
+Commit <br>
+Push <br>
+<br>
+Commands work in general
