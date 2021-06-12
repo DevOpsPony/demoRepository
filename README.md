@@ -1,3 +1,6 @@
 # A sample repository
 
 I ... uh... got nothing :3
+Wait !... 
+Nah... 
+Lost it
