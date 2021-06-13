@@ -8,3 +8,7 @@ Commit <br>
 Push <br>
 <br>
 Commands work in general
+
+## Changed branch to featureBranch
+
+Testing how branching works here
